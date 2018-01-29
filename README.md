@@ -1,5 +1,6 @@
 # TechOlympics 2018 Showcase Project - Loveland High School
 
+## [Website](https://vasilescur.github.io/Loveland-Showcase/)
 
 ## Project
 
