@@ -1,4 +1,4 @@
-# TechOlympics 2018 Showcase Project - Loveland High School
+# [TechOlympics 2018](https://techolympics.org) Showcase Project - Loveland High School
 
 ## [Website](https://vasilescur.github.io/Loveland-Showcase/)
 
@@ -62,4 +62,12 @@ function printStudentInfo(id) {
 
 ## Our Team
 
-This project was created by the Loveland High School's INTERalliance chapter.
+This project was created by the Loveland High School's [INTERalliance](http://interalliance.org) chapter.
+
+### Development Team
+
+----------------------------------------------------------------
+| [Radu Vasilescu](http://raduvasilescu.com) | Lead Developer  |
+----------------------------------------------------------------
+| Emily Kiehl                                | Developer       |
+----------------------------------------------------------------
