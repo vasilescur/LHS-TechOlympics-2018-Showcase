@@ -66,8 +66,7 @@ This project was created by the Loveland High School's [INTERalliance](http://in
 
 ### Development Team
 
-----------------------------------------------------------------
-| [Radu Vasilescu](http://raduvasilescu.com) | Lead Developer  |
-----------------------------------------------------------------
-| Emily Kiehl                                | Developer       |
-----------------------------------------------------------------
+| Name  | Role |
+| ------------- | ------------- |
+| [Radu Vasilescu](http://raduvasilescu.com)  | Lead Developer  |
+| Emily Kiehl  | Developer  |
