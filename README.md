@@ -3,7 +3,8 @@
 
 ## Project
 
-We made student RFID-powered keycards.
+We made student RFID-powered keycards. These cards can be used for attendance check-in, signing out library books, 
+hall passes, and any other application requiring a student catalog.
 
 
 ## How it works
