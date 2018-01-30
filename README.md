@@ -1,5 +1,7 @@
 # [TechOlympics 2018](https://techolympics.org) Showcase Project - Loveland High School
 
+[![Build Status](https://travis-ci.org/vasilescur/Loveland-Showcase.svg?branch=master)](https://travis-ci.org/vasilescur/Loveland-Showcase)
+
 ## [Website](https://vasilescur.github.io/Loveland-Showcase/)
 
 ## Project
