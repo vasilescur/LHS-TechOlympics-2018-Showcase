@@ -66,7 +66,36 @@ This project was created by the Loveland High School's [INTERalliance](http://in
 
 ### Development Team
 
-| Name  | Role |
+| Name | Role |
 | ------------- | ------------- |
 | [Radu Vasilescu](http://raduvasilescu.com)  | Lead Developer  |
 | Emily Kiehl  | Developer  |
+| Jonathan Mangan | Developer |
+| Jackson Daumeyer | Developer |
+| Quinn James | Developer |
+
+### Build Team
+
+| Name | Role |
+| --------------| ------------- |
+| Jonah Smith | Build Team Leader |
+| Garrett Royal | Build Team Member |
+| Cooper Baumgarth | Build Team Member |
+| Max Hannah | Build Team Member |
+
+### Design Team 
+
+| Name | Role |
+| -------------| ------------- |
+| Abbie Docter | Lead Designer |
+| Morgan McKinney | Designer |
+| Leslie Nash | Designer |
+| Lydia Filgis | Designer |
+
+### Integration Team
+
+| Name | Role |
+| -------------| ------------- |
+| Haley Dues | Integration Team Leader |
+| Zo&eacute; Long | Integration Team Member |
+| Patricia Lennon | Integration Team Member |
