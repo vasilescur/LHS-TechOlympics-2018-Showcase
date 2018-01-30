@@ -1,6 +1,6 @@
 # [TechOlympics 2018](https://techolympics.org) Showcase Project - Loveland High School
 
-[![Build Status](https://travis-ci.org/vasilescur/Loveland-Showcase.svg?branch=master)](https://travis-ci.org/vasilescur/Loveland-Showcase)
+[![Build Status](https://travis-ci.org/vasilescur/Loveland-Showcase.svg?branch=master)](https://travis-ci.org/vasilescur/Loveland-Showcase) ![Version](https://img.shields.io/badge/version-0.1-blue.svg)
 
 ## [Website](https://vasilescur.github.io/Loveland-Showcase/)
 
