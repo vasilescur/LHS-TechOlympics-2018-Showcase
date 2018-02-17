@@ -61,6 +61,15 @@ function printStudentInfo(id) {
 }
 ```
 
+## Future Plans
+
+We are currently working to develop a front-end for this application, which will allow teachers to monitor a 
+list of their students in each class and see who has signed in.
+
+
+Other possible applications of the key-card system could be checking out materials from the school Media Center (library), 
+use as bathroom or hall passes, or an extra security measure when entering the building.
+
 
 ## Our Team
 
